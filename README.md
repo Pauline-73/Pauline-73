@@ -53,4 +53,4 @@ I combine technical skills with a client-focused mindset to deliver **data-drive
 ### 🌐 Let's connect!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauline-charvin-443429a3/)  
-📫 Reach me at: pauline.charvin [at] gmail [dot] com
+📫 Reach me at: pauline.charvin@gmail.com
